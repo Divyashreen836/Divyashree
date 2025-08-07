@@ -35,6 +35,6 @@ An enthusiastic Electrical and CommunicationEngineering (ECE) student passionate
 
 ## 🤝 Let's Connect!
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/[your-github-username])
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Divyashreen836)
 
 ---
