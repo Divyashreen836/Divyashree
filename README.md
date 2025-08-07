@@ -1,32 +1,40 @@
-# Divyashree
-# Project Title
+# Hi, I'm Divyashree 👋
 
-A short, one-to-a-two sentence description of your project.
+An enthusiastic Electrical and CommunicationEngineering (ECE) student passionate about the world of **embedded systems**. I'm currently honing my skills in **embedded C**, **hardware interfacing**, and low-level programming with **C** and **C++**, aiming to contribute to innovative projects in the core embedded field.
 
-## Table of Contents
-- [Description](#description)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/divya-shree-n-9304a32b1)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:divyashreenm46@gmail.com)
 
-## Description
-This section provides a more detailed explanation of your project. Explain what the project does, why you created it, and what problem it solves.
+---
 
-## Features
-- List the main features of your project here.
-- Use bullet points for easy readability.
-- Example: 
-    - Feature 1: Does something cool.
-    - Feature 2: Has a simple interface.
-    - Feature 3: Is highly customizable.
+## 🛠️ Skills
 
-## Installation
-Provide clear instructions on how to set up and run your project. Include any prerequisites (e.g., Node.js, Python) and commands.
-```bash
-# Example commands
-git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
-cd your-repository
-npm install
-npm start
+### Programming Languages
+- **Embedded C** 
+- **C** 
+- **C++** 
+### Hardware Interfacing
+- Basics of communication protocols such as **SPI**, **I2C**, **UART**.
+- Hands-on experience with interfacing sensors, actuators, and peripherals.
+
+### Tools & Technologies
+- Known with IDEs like **STM32CubeIDE**, **Arduino IDE**.
+- Basic knowledge of version control using **Git**.
+
+---
+
+
+
+## 🌱 Currently Learning
+
+- Exploring Real-Time Operating Systems (RTOS) concepts.
+- Diving deeper into advanced microcontroller peripherals.
+- Learning about wireless communication protocols like Bluetooth Low Energy (BLE).
+
+---
+
+## 🤝 Let's Connect!
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/[your-github-username])
+
+---
